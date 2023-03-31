@@ -1,4 +1,4 @@
-# Garbage-Collectors
+# Garbage-Collectors   Group of 4 (mohamed elgreatly -- mahmoud ramzy -- mahmoud fathalla -- ayman mohamed)
 In this lab, you will implement two of the known algorithms used in Garbage Collectors:
 - Mark and Sweep GC 
 - Mark and compact
